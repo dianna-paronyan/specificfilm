@@ -1,2 +1,4 @@
 # Exercise - SpecificFilm
-Created with #fetch
+Created with fetch API and React hooks
+- useState
+- useEffect
